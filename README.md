@@ -130,7 +130,8 @@ This will start sending random e-commerce API requests to the backend every few 
 
 > Dashboard showing live API logs with color-coded status codes, error highlighting, and real-time stats
 
-![Dashboard Preview](./frontend/src/assets/dashboard.png)
+![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard2.png)
 
 ---
 
